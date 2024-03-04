@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @kelvin thuranira
-- 👀 I’m interested in music,poetry, pentesting and coding
-- 🌱 I’m experienced in java and android development 
-- 💞️ I’m looking to collaborate on more java based projects
-- 📫 Reach me via whatsapp +254758536280/254773084551 
-- Or email me kelvinthuranira591@gmail.com
+- 👋 Acode Developers 
+- 🌱 Experience:
+-  Advanced java, Advanced XML UI/UX design
+-  Android studio, Jenkins, Aws, Azure, GCP
+- 💞️ Collaborate with us on quality java based projects
+- 📫 Reach us via whatsapp +254758536280/254773084551 
+- Or email  Acodedevelopas@gmail.com
 
 <!---
 micro-byte/micro-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
