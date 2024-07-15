@@ -1,8 +1,7 @@
 - 👋 Acode Developers 
 - 🌱 Experience:
--  Advanced java, Advanced XML UI/UX design
--  Android studio, Jenkins, Aws, Azure, GCP
-- 💞️ Collaborate with us for quality android based projects
+-  Java, XML, Dart, Flutter,Git,Gcp, Android studio
+- 💞️ Collaborate with us for quality android/IOS based projects
 - 📫 Reach us via whatsapp +254758536280/254773084551 
 - Or email  Acodedevelopas@gmail.com
 
